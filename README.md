@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał Boese</h1>
 <h3 align="center">A passionate student from Poland</h3>
 
-- 🌱 I’m currently learning **Vim** and **Vue**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 My first project [https://partycreatorfrontend.azurewebsites.net/](https://partycreatorfrontend.azurewebsites.net/)
 
