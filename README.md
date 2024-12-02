@@ -5,7 +5,7 @@
 
 - 👨‍💻 My first project [https://partycreatorfrontend.azurewebsites.net/](https://partycreatorfrontend.azurewebsites.net/)
 
-- 📫 How to reach me **boesemichal@gmail.com**
+- 📫 How to reach me **boesemichal@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
